@@ -1,0 +1,6 @@
+D:\Projects\CreateCSVFileInCSharp\CreateCSVFileInCSharp\bin\Debug\CreateCSVFileInCSharp.exe.config
+D:\Projects\CreateCSVFileInCSharp\CreateCSVFileInCSharp\bin\Debug\CreateCSVFileInCSharp.exe
+D:\Projects\CreateCSVFileInCSharp\CreateCSVFileInCSharp\bin\Debug\CreateCSVFileInCSharp.pdb
+D:\Projects\CreateCSVFileInCSharp\CreateCSVFileInCSharp\obj\Debug\CreateCSVFileInCSharp.csprojResolveAssemblyReference.cache
+D:\Projects\CreateCSVFileInCSharp\CreateCSVFileInCSharp\obj\Debug\CreateCSVFileInCSharp.exe
+D:\Projects\CreateCSVFileInCSharp\CreateCSVFileInCSharp\obj\Debug\CreateCSVFileInCSharp.pdb
